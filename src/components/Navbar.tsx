@@ -27,6 +27,7 @@ const Navbar = () => {
           </button>
           <a href="#pharmacies" className="hover:text-foreground transition-colors">Compounding Pharmacies</a>
           <a href="#reviews" className="hover:text-foreground transition-colors">Reviews</a>
+          <a href="/eligibility" className="text-primary hover:text-primary/80 font-medium transition-colors">Am I Eligible?</a>
         </div>
       </div>
     </nav>
